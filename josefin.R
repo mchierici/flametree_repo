@@ -6,6 +6,7 @@ library(flametree)
 # your name, without spaces or special characters
 name <- "Josefin"
 
+
 # pick a seed
 this_seed <- 42
 
